@@ -1,0 +1,53 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://imgd-ct.aeplcdn.com/1056x660/cw/ec/26588/Toyota-Corolla-Altis-Exterior-92910.jpg?v=201711021421&q=80",
+            "name":"Toyota Corolla",
+            "price":20000,
+            "mileage":15000,
+            "color":"Blue",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        },
+        {
+            "id":2,
+            "image":"https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/134365/2023-city-left-front-three-quarter-4.jpeg?isig=0&q=80",
+            "name":"Honda City",
+            "price":200000,
+            "mileage":12000,
+            "color":"Grey",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        },
+        {
+            "id":3,
+            "image":"https://imgd.aeplcdn.com/1920x1080/n/cw/ec/141867/nexon-facelift-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80&q=80",
+            "name":"Tata Nexon",
+            "price":300000,
+            "mileage":14000,
+            "color":"Green",
+            "seats":5,
+            "fuel":"Diesel",
+            "gear":"Manual",
+            "description":"A spacious family car"
+        },
+        {
+            "id":4,
+            "image":"https://imgd.aeplcdn.com/1056x594/n/rskpp0b_1638613.jpg?q=80",
+            "name":"Mahindra Thar ",
+            "price":40000,
+            "mileage":1000,
+            "color":"Black",
+            "seats":4,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A Stylish family car"
+        }
+        
+    ]
+}
